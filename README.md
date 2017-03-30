@@ -1,5 +1,5 @@
 # hello-world
-###First time on GitHub
+### First time on GitHub
 
 
 #### This is my first try in using __*GitHub*__.  
